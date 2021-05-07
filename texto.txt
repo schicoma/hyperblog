@@ -1,1 +1,3 @@
-Hola mundo, soy sebastián
+Hola mundo, soy Sebastián.
+
+Soy un estudiante universitario de la UPC y estudiante online en Platzi.
