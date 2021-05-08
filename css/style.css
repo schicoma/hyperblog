@@ -30,7 +30,7 @@ body {
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid #ddd;
     margin: 0 auto;
 }
 
@@ -40,4 +40,11 @@ body {
 
 #container h1 {
     font-size: 2rem;
+}
+
+#footer {
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
