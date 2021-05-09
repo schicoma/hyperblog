@@ -2,4 +2,6 @@ Hola mundo, soy Sebastián.
 
 Soy un estudiante universitario de la UPC y estudiante online en Platzi.
 
-Tengo 24 años y nací en Perú
+Tengo 24 años y nací en Perú.
+
+Hice un fork para contribuir al proyecto creado para el curso de Git y GitHub de Platzi.
