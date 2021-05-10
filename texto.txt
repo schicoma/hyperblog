@@ -6,4 +6,6 @@ Tengo 24 años y nací en Perú.
 
 Master 1
 
+Master 2
+
 Hice un fork para contribuir al proyecto creado para el curso de Git y GitHub de Platzi.
